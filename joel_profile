@@ -1,0 +1,4 @@
+alias dev='cd ~; cd Developer'
+alias rn='dev; cd rn-ide'
+alias pp='dev; cd practice-problems'
+alias pm='dev; cd practice-man'
